@@ -16,7 +16,7 @@ I'm currently a computer science student passionate about software development a
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-  ![Java](https://img.shields.io/badge/Java-%23E11F26.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23E11F26.svg?logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
